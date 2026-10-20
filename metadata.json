@@ -1,0 +1,6 @@
+{
+  "name": "ORYQEN Studio",
+  "description": "Modern web design studio crafting high-conversion, cinematic digital experiences for restaurants, banquet halls, salons, real estate, and ambitious businesses.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
